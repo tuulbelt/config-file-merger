@@ -26,6 +26,10 @@
     "type": "git",
     "url": "https://github.com/tuulbelt/config-file-merger.git"
   },
+  "homepage": "https://github.com/tuulbelt/config-file-merger#readme",
+  "bugs": {
+    "url": "https://github.com/tuulbelt/tuulbelt/issues"
+  },
   "engines": {
     "node": ">=18.0.0"
   },

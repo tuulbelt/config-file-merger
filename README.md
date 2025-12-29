@@ -1,6 +1,6 @@
 # Config File Merger / `cfgmerge`
 
-[![Tests](https://github.com/tuulbelt/tuulbelt/actions/workflows/test-all-tools.yml/badge.svg)](https://github.com/tuulbelt/tuulbelt/actions/workflows/test-all-tools.yml)
+[![Tests](https://github.com/tuulbelt/config-file-merger/actions/workflows/test.yml/badge.svg)](https://github.com/tuulbelt/config-file-merger/actions/workflows/test.yml)
 ![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![Node](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success)
