@@ -296,6 +296,6 @@ MIT — see [LICENSE](LICENSE)
 ## Related Tools
 
 Part of the [Tuulbelt](https://github.com/tuulbelt/tuulbelt) collection:
-- [Test Flakiness Detector](../test-flakiness-detector/) — Detect unreliable tests
-- [CLI Progress Reporting](../cli-progress-reporting/) — Concurrent-safe progress updates
-- [Structured Error Handler](../structured-error-handler/) — Error context preservation
+- [Test Flakiness Detector](https://github.com/tuulbelt/test-flakiness-detector) — Detect unreliable tests
+- [CLI Progress Reporting](https://github.com/tuulbelt/cli-progress-reporting) — Concurrent-safe progress updates
+- [Structured Error Handler](https://github.com/tuulbelt/structured-error-handler) — Error context preservation
