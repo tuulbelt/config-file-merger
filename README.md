@@ -32,9 +32,9 @@ Existing solutions require heavy dependencies (dotenv, convict, cosmiconfig), do
 ## Installation
 
 ```bash
-git clone https://github.com/tuulbelt/tuulbelt.git
-cd tuulbelt/config-file-merger
-npm install
+git clone https://github.com/tuulbelt/config-file-merger.git
+cd config-file-merger
+npm install  # Install dev dependencies only
 ```
 
 **CLI names** — both short and long forms work:
@@ -287,7 +287,7 @@ See [SPEC.md](SPEC.md) for detailed technical specification including:
 
 **[▶ View interactive recording on asciinema.org](https://asciinema.org/a/ZgKMRt30wIjBSsCxNHDg7jjdB)**
 
-> Try it online: [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/tuulbelt/tuulbelt/tree/main/config-file-merger)
+> Try it online: [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/tuulbelt/config-file-merger)
 
 ## License
 
