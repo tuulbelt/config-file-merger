@@ -89,3 +89,5 @@ demo_commands() {
 }
 
 run_demo
+
+# Demo regenerated 2025-12-30
